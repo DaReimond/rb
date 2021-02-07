@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Blackjack</string>
+    <string name="title_activity_leaderboard" fontFamily="cursive">LeaderBoard
+    </string>
+    <string name="large_text">
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="share_subject">
+    </string>
+
+    <string name="share_using">
+    </string>
+    <string name="leaderboard">Leaderboard</string>
+</resources>

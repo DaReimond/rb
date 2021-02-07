@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832073060158",
+    "firebase_url": "https://reimond-blackjack-default-rtdb.firebaseio.com",
+    "project_id": "reimond-blackjack",
+    "storage_bucket": "reimond-blackjack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832073060158:android:37645e332fc61e4eee266f",
+        "android_client_info": {
+          "package_name": "com.example.blackjack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832073060158-cnib5j6shgb7j55afp156sglr58l248h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNx_UaHYQjAeFp9jEf7PnncmIauUvcBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832073060158-cnib5j6shgb7j55afp156sglr58l248h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
